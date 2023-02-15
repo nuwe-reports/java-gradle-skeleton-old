@@ -4,7 +4,7 @@
 
 <div id="user-content-toc">
   <ul>
-    <summary><h1 style="display: inline-block;">Java Bootstrap</h1></summary>
+    <summary><h1 style="display: inline-block;">Java & Gradle</h1></summary>
   </ul>
 </div>
 
